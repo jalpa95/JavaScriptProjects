@@ -6,7 +6,7 @@
 
 A basic Tic Tac Toe game built using HTML/JavaScript/CSS. No dependencies.
 
-To View The Demo : [Click Here](https://jalpa95.github.io/JavaScriptProjects/1-TicTacToeGame/)
+To View The Demo : [Click Here](https://jalpa95.github.io/JavaScriptProjects/)
 
  ## How to get started
 
